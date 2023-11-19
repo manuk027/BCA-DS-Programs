@@ -1,3 +1,4 @@
+//reverse of a string using pointers
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
