@@ -3,8 +3,7 @@
 #include<conio.h>
 void main()
 {
-	int i, j, rows, coloumns, srchelement, count=0;
-	int array[100][100];
+	int i, j, rows, coloumns, srchelement, count=0, array[100][100];
 	clrscr();
 	printf("Enter number of rows:");
 	scanf("%d", &rows);
