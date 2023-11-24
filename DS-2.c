@@ -7,7 +7,7 @@ void main()
 	clrscr();
 	printf("Enter number of rows:");
 	scanf("%d", &rows);
-	printf("\nEnter number of colouns:");
+	printf("\nEnter number of coloumns:");
 	scanf("%d", &coloumns);
 	printf("Enter %d elements:\n", (rows*coloumns));
 	for(i=0; i<rows; i++)
