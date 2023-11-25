@@ -28,3 +28,12 @@ void main()
         last=middle-1;
         middle=(first+last)/2;
     }
+    if(first>last)
+    {
+        printf("Not found %d is not present in the list\n", search);
+    }
+    getch();
+}
+
+        middle=(first+last)/2;
+    }
