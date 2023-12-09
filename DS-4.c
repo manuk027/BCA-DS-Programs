@@ -34,6 +34,3 @@ void main()
     }
     getch();
 }
-
-        middle=(first+last)/2;
-    }
