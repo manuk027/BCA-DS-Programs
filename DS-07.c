@@ -1,3 +1,4 @@
+//deleting a node from linked list
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
