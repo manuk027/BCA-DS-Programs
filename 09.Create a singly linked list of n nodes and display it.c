@@ -1,4 +1,4 @@
-//singly linked list
+//create a singly linked list of n nodes and display it
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
