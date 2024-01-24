@@ -1,4 +1,4 @@
-//search an element in 2-D array
+//search an element in two dimensional array
 #include<stdio.h>
 #include<conio.h>
 void main()
