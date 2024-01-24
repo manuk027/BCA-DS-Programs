@@ -1,4 +1,4 @@
-//pattern matching
+//implement pattern matching algorithm
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
