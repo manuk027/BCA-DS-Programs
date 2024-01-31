@@ -61,7 +61,7 @@ void reverse()
 }
 int main()
 {
-  int i,num;
+  int i, num;
   clrscr();
   while(1)
   {
