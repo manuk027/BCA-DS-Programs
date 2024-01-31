@@ -1,6 +1,6 @@
 //creating a doubly linked list of integers and display in forward and backward direction
 #include<stdio.h>
-#include<coniio.h>
+#include<conio.h>
 #include<stdlib.h>
 struct node
 {
@@ -59,7 +59,7 @@ void reverse()
   tail=temp;
   display();
 }
-void main()
+int main()
 {
   int i,num;
   clrscr();
