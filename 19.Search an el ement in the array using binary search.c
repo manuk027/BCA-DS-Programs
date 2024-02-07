@@ -1,4 +1,4 @@
-//search an element in the array using iterative binary search
+//search an element in the array using binary search
 #include<stdio.h>
 #include<conio.h>
 void main()
