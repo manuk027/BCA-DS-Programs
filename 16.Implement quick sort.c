@@ -1,4 +1,4 @@
-//implement quick sort
+//implement circular queue
 #include<stdio.h>
 #include<conio.h>
 void quicksort(int number[25],int first,int last)
