@@ -5,11 +5,11 @@ void main()
 {
 	int i, j, rows, coloumns, srchelement, count=0, array[100][100];
 	clrscr();
-	printf("Enter number of rows:");
+	printf("Enter number of rows: ");
 	scanf("%d", &rows);
-	printf("\nEnter number of coloumns:");
+	printf("Enter number of coloumns: ");
 	scanf("%d", &coloumns);
-	printf("Enter %d elements:\n", (rows*coloumns));
+	printf("\nEnter %d elements:\n", (rows*coloumns));
 	for(i=0; i<rows; i++)
 	{
 		for(j=0; j<coloumns; j++)
@@ -17,7 +17,7 @@ void main()
 			scanf("%d", &array[i][j]);
 		}
 	}
-	printf("Enter the elements to get the position:\n");
+	printf("\nEnter the elements to get the position: \n");
 	scanf("%d", &srchelement);
 	for(i=0; i<rows; i++)
 	{
