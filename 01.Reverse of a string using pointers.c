@@ -7,7 +7,7 @@ void main()
 	int l, i;
 	char str[100], *begin_ptr, *end_ptr, ch;
 	clrscr();
-	printf("Enter a string:\n");
+	printf("Enter a string:");
 	scanf("%s", str);
 	l=strlen(str);
 	begin_ptr=str;
