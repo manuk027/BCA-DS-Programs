@@ -1,0 +1,9 @@
+Enter number of elements in array: 5
+Enter 5 integers
+10
+20
+30
+40
+50
+Enter a number to search: 20
+20 is present at location 2
